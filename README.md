@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- Animated Title -->
 <h1>
   <a href="https://github.com/DashingAdi">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Sarthak+🚀;Full+Stack+Developer+💻;DevOps+Engineer+⚙️;Web3+Enthusiast+🌐;Open+Source+Contributor+🔥&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Ritik+🚀;Full+Stack+Developer+💻;DevOps+Engineer+⚙️;Web3+Enthusiast+🌐;Open+Source+Contributor+🔥&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&pause=1000&size=22" />
   </a>
 </h1>
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <td width="50%">
 
 ```bash
-sarthak@github:~$ whoami
+ritik@github:~$ whoami
 ```
 
 **🎓 Computer Science Student**  
@@ -58,9 +58,8 @@ sarthak@github:~$ whoami
 **⚡ Current Mission:** Contributing to Open Source  
 
 **📫 Let's Connect:**
-- 📧 sarthakgagapalliwar07@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/sarthak-gagapalliwar)
-- 🐦 [Twitter](https://twitter.com/SarthakGagapal1)
+- 📧 singhritik4433@gmail.com
+- 🔗 [LinkedIn](linkedin.com/in/ritik-singh4433)
 
 </td>
 <td width="50%">
@@ -176,7 +175,7 @@ sarthak@github:~$ whoami
 - 🔥 **50+ Open Source Contributions**
 - 🚀 **Master DevOps & Cloud Technologies**
 - 📱 **Build 5 Full-Stack Projects**
-- 🏆 **Reach 1000+ LeetCode Problems**
+- 🏆 **Reach 500+ LeetCode and GeeksforGeeks Problems**
 - 🌐 **Dive deeper into Web3 & Blockchain**
 
 ---
