@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **ritiksingh4433/ritiksingh4433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DashingAdi">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Heyo,%20Sarthak%20Here!;Backend%20developer;DevOps%20Engineer;Web3%20Enthusiast&font=Raleway&center=true&width=440&height=50&color=CF41AE&vCenter=true&pause=420&size=30" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Heyo,%20Ritik %20Here!;Backend%20developer;DevOps%20Engineer;Web3%20Enthusiast&font=Raleway&center=true&width=440&height=50&color=CF41AE&vCenter=true&pause=420&size=30" /></a>
 </h1>
 
 </div>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     </div>
   
 markdown
-SarthakGagapalliwar@github:~$ ./welcome.sh
+ritiksingh4433@github:~$ ./welcome.sh
 
 🎓 Pursuing a Bachelor's in Computer Science
 🌱 Currently diving into DevOps and NextJs
