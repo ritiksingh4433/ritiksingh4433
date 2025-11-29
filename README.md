@@ -251,7 +251,7 @@ const ritik = {
 
 ---
 
-## 🎯 2025 Goals & Progress
+## 🎯 2026 Goals & Progress
 
 <div align="center">
 
