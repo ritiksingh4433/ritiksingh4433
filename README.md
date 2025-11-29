@@ -1,201 +1,113 @@
-## Hello 👋
-
-<!--
-**ritiksingh4433/ritiksingh4433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# 👋 Welcome to My Digital Universe!
+# Hi there, I'm Ritik Singh 👋
 
 <div align="center">
-  
-<!-- Hero Banner -->
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" width="100%" height="300" style="object-fit: cover;"/>
-
-<!-- Animated Title -->
-<h1>
-  <a href="https://github.com/DashingAdi">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Ritik+🚀;Full+Stack+Developer+💻;DevOps+Engineer+⚙️;Web3+Enthusiast+🌐;Open+Source+Contributor+🔥&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&pause=1000&size=22" />
-  </a>
-</h1>
-
-<!-- Profile Views & Social Links -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=DashingAdi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/DashingAdi?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F7EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Blockchain+Explorer;Problem+Solver" alt="Typing SVG" />
 </div>
 
----
+## 🚀 About Me
 
-## 🎯 About Me
+I'm a passionate developer on a mission to master modern tech stacks and build impactful solutions. Currently focusing on DevOps, Cloud Technologies, and Full-Stack Development with a keen interest in Web3 and Blockchain.
 
-<table>
-<tr>
-<td width="50%">
-
-```bash
-ritik@github:~$ whoami
-```
-
-**🎓 Computer Science Student**  
-**🌱 Currently exploring:** DevOps & Next.js  
-**💼 Specialization:** Full-stack web applications  
-**🔥 Focus:** Backend development & scalable systems  
-**🎮 Interests:** Custom ROMs, Web3, and Anime  
-**⚡ Current Mission:** Contributing to Open Source  
-
-**📫 Let's Connect:**
-- 📧 singhritik4433@gmail.com
-- 🔗 [LinkedIn](linkedin.com/in/ritik-singh4433)
-
-</td>
-<td width="50%">
-
-<img src="https://github.com/DashingAdi/DashingAdi/blob/main/assets/camp.gif" width="100%" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-<p>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="Next.js" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="Node.js" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="Tailwind CSS" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg" alt="Vercel" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg" alt="Cloudflare" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Vite" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" />
-</p>
-
-### 💻 Development Environment
-<p>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" alt="Ubuntu" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DashingAdi&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashingAdi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=DashingAdi&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DashingAdi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-## 🎯 2024 Goals
-
+### 🎯 2025 Goals:
 - 🔥 **50+ Open Source Contributions**
 - 🚀 **Master DevOps & Cloud Technologies**
 - 📱 **Build 5 Full-Stack Projects**
 - 🏆 **Reach 500+ LeetCode and GeeksforGeeks Problems**
 - 🌐 **Dive deeper into Web3 & Blockchain**
 
----
+### 💡 Currently:
+- 🔭 Building scalable full-stack applications
+- 🌱 Learning advanced DevOps practices and Cloud Architecture
+- 👯 Open to collaborate on Web3, Blockchain, and Full-Stack projects
+- 💬 Ask me about JavaScript, React, Node.js, DevOps, or problem-solving
+- 📫 Reach me: **ritiksingh4433@gmail.com**
+- ⚡ Fun fact: **Did you know? In Australia, there are 48 million kangaroos, while Uruguay has 3,457,380 inhabitants. So if kangaroos invaded Uruguay, each Uruguayan would face 14 kangaroos!** 😄
 
-## 🎭 Fun Fact Corner
+## 🛠️ Tech Stack & Tools
 
-> 🦘 **Did you know?** In Australia, there are 48 million kangaroos, while Uruguay has 3,457,380 inhabitants. So if kangaroos invaded Uruguay, each Uruguayan would face 14 kangaroos! 😄
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Blockchain & Web3
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritiksingh4433&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F7EF7&icon_color=3F7EF7&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksingh4433&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F7EF7&text_color=C9D1D9" alt="Top Languages" height="180"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksingh4433&theme=tokyonight&hide_border=true&background=0D1117&ring=3F7EF7&fire=3F7EF7&currStreakLabel=3F7EF7" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritiksingh4433&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritiksingh4433&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F7EF7&line=3F7EF7&point=C9D1D9" alt="Contribution Graph" />
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-singh)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritiksingh4433)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ritiksingh4433)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ritiksingh4433)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritiksingh4433@gmail.com)
+
+</div>
+
+## 💼 Featured Projects
+
+> Coming soon! Currently building amazing projects in Full-Stack, DevOps, and Web3 domains.
+
+<!-- Uncomment and fill when you have projects to showcase
+### [Project Name 1](https://github.com/ritiksingh4433/project1)
+🚀 Brief description of your project and tech stack used
+
+### [Project Name 2](https://github.com/ritiksingh4433/project2)
+🚀 Brief description of your project and tech stack used
+-->
 
 ---
 
 <div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### ✨ Show some ❤️ by starring some repositories!
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
----
-
-**⭐ If you found my projects helpful, please consider starring them!**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and build something amazing together!</b></em>
+![Profile Views](https://komarev.com/ghpvc/?username=ritiksingh4433&color=3F7EF7&style=for-the-badge&label=Profile+Views)
 
 </div>
