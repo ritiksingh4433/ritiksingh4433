@@ -135,7 +135,7 @@ const ritik = {
 
 ### 🤖 React AI-Tool
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ritiksingh4433/React_AI_Tool)
-[![Live](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://protfolio-website-gilt.vercel.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://react-ai-tool-azure.vercel.app/)
 
 **Interactive AI-powered query assistant with real-time chat-style responses**
 
@@ -149,6 +149,7 @@ const ritik = {
 
 ### 🏙️ Smart City
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ritiksingh4433/SmartCity-Hackathon)
+[![Live](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smart-city-hackathon-mu.vercel.app/)
 
 **Comprehensive web app for city exploration with smart features**
 
@@ -162,7 +163,7 @@ const ritik = {
 
 ### 🧩 Sudoku Solver Visualizer
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ritiksingh4433/Sudoko-Solver)
-[![Demo](https://img.shields.io/badge/Try_It-FF6B6B?style=for-the-badge&logo=codepen&logoColor=white)](https://ritiksingh4433.github.io/Sudoko-Solver)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sudoko-solver-lyart.vercel.app/)
 
 **Interactive Sudoku solver using backtracking algorithm**
 
