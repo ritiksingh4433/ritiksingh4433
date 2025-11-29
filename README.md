@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://protfolio-website-gilt.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ritik-singh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ritik-singh4433/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ritiksingh4433"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:singhritik4433@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+917318353765"><img src="https://img.shields.io/badge/Phone-+91--7318353765-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -384,7 +384,7 @@ const ritik = {
 ### 📬 Reach out to me:
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-4285F4?style=for-the-badge)](https://protfolio-website-gilt.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ritik-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ritik-singh4433/)
 [![Email](https://img.shields.io/badge/Email-singhritik4433@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:singhritik4433@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ritiksingh4433)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-Follow-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/ritiksingh4433)
